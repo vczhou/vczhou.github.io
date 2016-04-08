@@ -1,2 +1,4 @@
 # vczhou.github.io
-Start of personal site
+For Freetail Hacker's 30-Day Git Challenge.
+
+Goal: Start a personal website
