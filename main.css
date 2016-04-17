@@ -11,7 +11,7 @@ html, body {
 
 body{
   font-family: 'Lato', sans-serif;
-  background-image: Background_1.jpg;
+  background-image: "Background_1.jpg";
   background-position: center top;
   bakground-size: cover;
   margin: 0;
