@@ -56,7 +56,7 @@ div {
 }
 
 nav {
-  background-color: #adf066;
+  background-color: #eed2ee;
 }
 
 nav li{
@@ -71,4 +71,6 @@ nav ul{
 nav a{
   height: 60px;
   line-height: 60px;
+	text-decoration: none;
+	color: #204156;
 }
