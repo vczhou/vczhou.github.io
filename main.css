@@ -16,19 +16,13 @@ p {
 }
 
 h2 {
-  text-align: center;
-  font-size: 2.6rem;
+  text-align: left;
 }
 
 div {
   padding-right: 30px;
   height: 100%;
   width: 100%;
-}
-
-video {
-  background-color: #000000;
-  border: 2px solid black;
 }
 
 .container {
@@ -41,9 +35,9 @@ video {
 }
 
 .nav {
-  background-color: #FFEE00;
+  background-color: #00FFFF;
   max-width: 25%;
-  min-width: 140px;
+  min-width: 100%;
   flex: 1;
 }
 
