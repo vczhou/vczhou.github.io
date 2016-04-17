@@ -64,3 +64,10 @@ nav li{
   list-style-type: none;
   display: inline;
 }
+
+nav a{
+  color = #204156
+  text-decorationL none;
+  height: 60px;
+  line-height: 60px;
+}
