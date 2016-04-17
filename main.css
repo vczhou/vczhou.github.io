@@ -47,7 +47,7 @@ div {
 }
 
 .main {
-  background-image: "Background_1.jpg";
+  background-image: url("https://raw.githubusercontent.com/vczhou/vczhou.github.io/master/Background_1.jpg");
   background-position: center top;
   bakground-size: cover;
   padding-left: 30px;
