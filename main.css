@@ -66,8 +66,8 @@ nav li{
 }
 
 nav a{
-  color = #204156
-  text-decorationL none;
+  color: #204156
+  text-decoration: none;
   height: 60px;
   line-height: 60px;
 }
