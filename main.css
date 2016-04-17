@@ -30,14 +30,16 @@ div {
 }
 
 .main {
+  background-color: #66adf0;
   padding-left: 30px;
   min-width: 75%;
 }
 
 .nav {
-  background-color: #00FFFF;
+  background-color: #adf066;
   max-width: 25%;
-  min-width: 100%;
+  min-width: 140px;
+  height: 100%
   flex: 1;
 }
 
