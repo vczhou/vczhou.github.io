@@ -29,7 +29,7 @@ body{
 }
 
 p {
-  max-width: 85%;
+  max-width: 90%;
   min-width: 500px;
 }
 
@@ -52,7 +52,7 @@ div {
   background-image: url("https://raw.githubusercontent.com/vczhou/vczhou.github.io/master/Background_1.jpg");
   background-position: center top;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% 100%;
   padding-left: 30px;
   min-width: 75%;
 }
