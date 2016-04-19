@@ -56,6 +56,10 @@ div {
   min-width: 85%;
 }
 
+.contact {
+  font-color: white;
+}
+
 nav {
   background-color: #eed2ee;
 }
