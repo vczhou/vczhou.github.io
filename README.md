@@ -10,3 +10,7 @@ I've found that I have forgotten all the html and minimal CSS I had previously l
 Update 2:
 I just attended HackDFW this past weekend (4/16-4/17) and am thouroughly sleep deprived. However, this website has recieved some nice updates and looks a lot nicer with actual CSS elements in it. Definitley want to start learning some javaScript/jQuery soon.
 -04.18.16
+
+Update 3:
+Eek! It's definitley hard to find the time to sit down and actually code on projects not related to school stuff. It's time to stress about final projects and final exams, but definitley really want to spend a good chunk of time playing around with CSS and javaScript some more. I've definitely found codecademy and w3school examplese super useful these past few weeks.
+-04.20.16
