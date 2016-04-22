@@ -30,6 +30,7 @@ body{
 
 .contact-info{
   text-align: center;
+  font-color: #204156
 }
 
 .contact-info li{
@@ -41,7 +42,6 @@ body{
 
 .contact-info a{
   height: 10px;
-  line-height: 10px;
   color: #204156;
   text-decoration: none;
 }
@@ -87,8 +87,7 @@ nav li{
 }
 
 nav a{
-  height: 30px;
-  line-height: 30px;
+  height: 60px;
   color: #204156;
   text-decoration: none;
 }
