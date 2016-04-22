@@ -28,6 +28,23 @@ body{
   min-width: 100%;
 }
 
+.contact-info{
+}
+
+.contact-info li{
+  margin: 5px;
+  padding-right: 20px;
+  list-style-type: none;
+  display: inline;
+}
+
+.contact-info a{
+  height: 30px;
+  line-height: 60px;
+  color: #204156;
+  text-decoration: none;
+}
+
 p {
   max-width: 90%;
   min-width: 500px;
