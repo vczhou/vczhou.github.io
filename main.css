@@ -74,12 +74,9 @@ div {
   min-width: 85%;
 }
 
-.contact {
-  font-color: white;
-}
-
 nav {
   background-color: #eed2ee;
+  text-align: center;
 }
 
 nav li{
@@ -90,8 +87,8 @@ nav li{
 }
 
 nav a{
-  height: 60px;
-  line-height: 60px;
+  height: 30px;
+  line-height: 30px;
   color: #204156;
   text-decoration: none;
 }
