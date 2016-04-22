@@ -42,7 +42,7 @@ body{
 
 .contact-info a{
   height: 10px;
-  color: #204156;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -61,15 +61,11 @@ div {
   width: 100%;
 }
 
-.gallery{
-  justify-content:center;
-}
-
 .main {
   background-image: url("https://raw.githubusercontent.com/vczhou/vczhou.github.io/master/Background_1.jpg");
   background-position: center top;
   background-repeat: no-repeat;
-  background-size:100% 100%;
+  background-size: 100% 100%;
   padding-left: 30px;
   min-width: 85%;
 }
@@ -87,7 +83,6 @@ nav li{
 }
 
 nav a{
-  height: 60px;
   line-height: 60px;
   color: #204156;
   text-decoration: none;
