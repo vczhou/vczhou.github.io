@@ -29,6 +29,7 @@ body{
 }
 
 .contact-info{
+  text-align: center;
 }
 
 .contact-info li{
@@ -39,8 +40,8 @@ body{
 }
 
 .contact-info a{
-  height: 30px;
-  line-height: 60px;
+  height: 10px;
+  line-height: 10px;
   color: #204156;
   text-decoration: none;
 }
