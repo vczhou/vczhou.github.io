@@ -14,3 +14,4 @@ I just attended HackDFW this past weekend (4/16-4/17) and am thouroughly sleep d
 Update 3:
 Eek! It's definitley hard to find the time to sit down and actually code on projects not related to school stuff. It's time to stress about final projects and final exams, but definitley really want to spend a good chunk of time playing around with CSS and javaScript some more. I've definitely found codecademy and w3school examplese super useful these past few weeks.
 -04.20.16
+
