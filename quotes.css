@@ -50,10 +50,17 @@ p {
 }
 
 .main {
+  background-image: url(https://raw.githubusercontent.com/vczhou/vczhou.github.io/master/Sparkler.jpg);     
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: 1920px 1080px;
+  padding-top: 15px;
   padding-left: 30px;
   padding-right: 30px;
   min-width: 90%;
   max-width: 100%;
+  color: #fffbd0; 
+  text-shadow: 1px 0 0 #000, 0 -1px #000, 0 1px 0 #000, -1px 0 0 #000;
 }
 
 .main h2{
