@@ -15,3 +15,5 @@ Update 3:
 Eek! It's definitley hard to find the time to sit down and actually code on projects not related to school stuff. It's time to stress about final projects and final exams, but definitley really want to spend a good chunk of time playing around with CSS and javaScript some more. I've definitely found codecademy and w3school examplese super useful these past few weeks.
 -04.20.16
 
+Update 4:
+Yayaya!!! It's almost the end of the git challenge. I've definieley learned html and css (a bit, I guess, but I would still like to learn javascript. Here's to continuing this challenge after this ends :D.
