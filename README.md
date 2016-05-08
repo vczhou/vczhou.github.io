@@ -17,3 +17,6 @@ Eek! It's definitley hard to find the time to sit down and actually code on proj
 
 Update 4:
 Yayaya!!! It's almost the end of the git challenge. I've definieley learned html and css (a bit, I guess, but I would still like to learn javascript. Here's to continuing this challenge after this ends :D.
+
+Update 5:
+Woo!
